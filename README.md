@@ -1,2 +1,2 @@
 # computationallaw
-Virtual platform to test rules
+Virtual platform to test rules.
