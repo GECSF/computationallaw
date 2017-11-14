@@ -1,3 +1,4 @@
 # computationallaw
 ## Virtual platform to test rules.
-Coming soon
+Coming soon at
+https://gecsf.github.io/computationallaw/.
